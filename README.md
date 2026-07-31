@@ -112,15 +112,15 @@ Contains:
 
 ### Dashboard
 
-(Add Dashboard.png here)
+![Dashboard](Images/Dashboard.png)
 
 ### Detailed Analysis
 
-(Add Detailed_Analysis.png here)
+![Detailed Analysis](Images/Detailed_Analysis.png)
 
 ### Information Page
 
-(Add Information.png here)
+![Information](Images/Information.png)
 
 ---
 
