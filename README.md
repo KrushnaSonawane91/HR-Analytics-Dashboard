@@ -1,4 +1,4 @@
-# 📊 HR Analytics Dashboard | Power BI
+# 📈 HR Analytics Dashboard | Employee Attrition Analysis 
 
 A professional and interactive **HR Analytics Dashboard** built using the IBM HR Analytics Employee Attrition dataset. This project analyzes employee attrition trends and provides actionable insights using Power BI, SQL, Python, DAX, and Power Query.
 
